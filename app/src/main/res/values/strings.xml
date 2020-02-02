@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="hint_content">Content</string>
+    <string name="hint_title">Title</string>
+    <string name="menu_save_reminder">save reminder</string>
+    <string name="menu_select_all">select_all</string>
+    <string name="menu_delete">delete</string>
+    <string name="title_activity_archive">ArchiveActivity</string>
+    <string name="string_archive">archive</string>
+</resources>
